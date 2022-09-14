@@ -163,6 +163,11 @@ body {
     line-height: 1.714;
   }
   
+  .course-completed {
+    width: 20px;
+    height: 20px;
+  }
+
   .skills-list {
     list-style: none;
     padding-left: 0;
